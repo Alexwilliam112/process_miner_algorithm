@@ -1,0 +1,114 @@
+[
+  {
+    "eventName": "MarketingCampaign CREATE",
+    "timestamp": "2023-07-07T00:00:00.000+00:00"
+  },
+  {
+    "eventName": "MarketingCampaign APPROVE",
+    "timestamp": "2023-07-07T01:00:00.000+00:00"
+  },
+  {
+    "eventName": "MarketingCampaign POST",
+    "timestamp": "2023-07-07T02:00:00.000+00:00"
+  },
+  {
+    "eventName": "SalesOrder CREATE",
+    "timestamp": "2023-07-07T00:30:00.000+00:00"
+  },
+  {
+    "eventName": "SalesOrder APPROVE",
+    "timestamp": "2023-07-07T01:30:00.000+00:00"
+  },
+  {
+    "eventName": "SalesOrder POST",
+    "timestamp": "2023-07-07T02:30:00.000+00:00"
+  },
+  {
+    "eventName": "ProductLaunch CREATE",
+    "timestamp": "2023-07-07T03:00:00.000+00:00"
+  },
+  {
+    "eventName": "ProductLaunch APPROVE",
+    "timestamp": "2023-07-07T04:00:00.000+00:00"
+  },
+  {
+    "eventName": "ProductLaunch POST",
+    "timestamp": "2023-07-07T05:00:00.000+00:00"
+  },
+  {
+    "eventName": "CustomerFeedback CREATE",
+    "timestamp": "2023-07-07T06:00:00.000+00:00"
+  },
+  {
+    "eventName": "CustomerFeedback REVIEW",
+    "timestamp": "2023-07-07T07:00:00.000+00:00"
+  },
+  {
+    "eventName": "CustomerFeedback RESPOND",
+    "timestamp": "2023-07-07T08:00:00.000+00:00"
+  },
+  {
+    "eventName": "InventoryUpdate CREATE",
+    "timestamp": "2023-07-07T09:00:00.000+00:00"
+  },
+  {
+    "eventName": "InventoryUpdate APPROVE",
+    "timestamp": "2023-07-07T10:00:00.000+00:00"
+  },
+  {
+    "eventName": "InventoryUpdate POST",
+    "timestamp": "2023-07-07T11:00:00.000+00:00"
+  },
+  {
+    "eventName": "UserRegistration CREATE",
+    "timestamp": "2023-07-07T12:00:00.000+00:00"
+  },
+  {
+    "eventName": "UserRegistration VERIFY",
+    "timestamp": "2023-07-07T13:00:00.000+00:00"
+  },
+  {
+    "eventName": "UserRegistration COMPLETE",
+    "timestamp": "2023-07-07T14:00:00.000+00:00"
+  },
+  {
+    "eventName": "PaymentTransaction INITIATE",
+    "timestamp": "2023-07-07T15:00:00.000+00:00"
+  },
+  {
+    "eventName": "PaymentTransaction APPROVE",
+    "timestamp": "2023-07-07T16:00:00.000+00:00"
+  },
+  {
+    "eventName": "PaymentTransaction COMPLETE",
+    "timestamp": "2023-07-07T17:00:00.000+00:00"
+  },
+  {
+    "eventName": "SupportTicket CREATE",
+    "timestamp": "2023-07-07T18:00:00.000+00:00"
+  },
+  {
+    "eventName": "SupportTicket ASSIGN",
+    "timestamp": "2023-07-07T19:00:00.000+00:00"
+  },
+  {
+    "eventName": "SupportTicket RESOLVE",
+    "timestamp": "2023-07-07T20:00:00.000+00:00"
+  },
+  {
+    "eventName": "BlogPost CREATE",
+    "timestamp": "2023-07-07T21:00:00.000+00:00"
+  },
+  {
+    "eventName": "BlogPost APPROVE",
+    "timestamp": "2023-07-07T22:00:00.000+00:00"
+  },
+  {
+    "eventName": "BlogPost PUBLISH",
+    "timestamp": "2023-07-07T23:00:00.000+00:00"
+  },
+  {
+    "eventName": "Newsletter CREATE",
+    "timestamp": "2023-07-08T00:00:00.000+00:00"
+  }
+]
