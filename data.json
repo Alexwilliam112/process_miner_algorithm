@@ -1,7 +1,12 @@
 [
   {
     "eventName": "MarketingCampaign CREATE",
-    "timestamp": "2023-07-07T00:00:00.000+00:00"
+    "timestamp": "2023-07-07T00:00:00.000+00:00",
+    "originator": {
+      "name": "John Doe",
+      "position": "Marketing Staff",
+      "department": "Marketing"
+    }
   },
   {
     "eventName": "MarketingCampaign APPROVE",
