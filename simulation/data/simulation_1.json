@@ -1,0 +1,2002 @@
+[
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T20:23:47.271Z",
+    "originator": {
+      "name": "Connie Green",
+      "position": "Product Mobility Consultant",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T22:14:04.380Z",
+    "originator": {
+      "name": "Lydia Anderson",
+      "position": "Senior Operations Facilitator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T13:21:27.430Z",
+    "originator": {
+      "name": "Randy Zieme",
+      "position": "Future Research Developer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T01:19:07.846Z",
+    "originator": {
+      "name": "Becky Zulauf-Dibbert III",
+      "position": "Forward Program Orchestrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T09:23:20.393Z",
+    "originator": {
+      "name": "Stephen Pfeffer",
+      "position": "Senior Web Analyst",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T05:17:45.603Z",
+    "originator": {
+      "name": "Antoinette Kuphal",
+      "position": "Senior Accountability Engineer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T14:18:39.184Z",
+    "originator": {
+      "name": "Sandra VonRueden",
+      "position": "Customer Assurance Designer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T11:27:09.245Z",
+    "originator": {
+      "name": "Stewart O'Connell",
+      "position": "Principal Accountability Orchestrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T20:22:24.501Z",
+    "originator": {
+      "name": "Dr. Gordon Hoppe",
+      "position": "Internal Intranet Producer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:23:44.869Z",
+    "originator": {
+      "name": "Floyd O'Hara",
+      "position": "Forward Web Architect",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T14:55:05.107Z",
+    "originator": {
+      "name": "Dr. Olive Schiller V",
+      "position": "Direct Applications Executive",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T05:39:27.160Z",
+    "originator": {
+      "name": "Sabrina Torphy",
+      "position": "Principal Group Assistant",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T04:01:12.138Z",
+    "originator": {
+      "name": "Clyde Beer",
+      "position": "Lead Response Supervisor",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T02:21:59.684Z",
+    "originator": {
+      "name": "Cesar Beier",
+      "position": "District Intranet Supervisor",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T08:39:12.344Z",
+    "originator": {
+      "name": "Carla Kautzer-Feil",
+      "position": "Dynamic Brand Administrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T00:37:06.855Z",
+    "originator": {
+      "name": "Horace Hayes",
+      "position": "District Program Officer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T00:46:35.048Z",
+    "originator": {
+      "name": "Ms. Dawn Brakus",
+      "position": "Product Markets Orchestrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T01:41:21.767Z",
+    "originator": {
+      "name": "Roy Predovic",
+      "position": "Regional Assurance Executive",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T22:37:44.286Z",
+    "originator": {
+      "name": "Claire Bayer",
+      "position": "Global Tactics Architect",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T16:31:19.450Z",
+    "originator": {
+      "name": "Jimmie Kunze-Abbott",
+      "position": "Corporate Accounts Designer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T01:41:03.705Z",
+    "originator": {
+      "name": "Olivia Cummerata",
+      "position": "District Paradigm Assistant",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T20:08:40.441Z",
+    "originator": {
+      "name": "Doug Glover",
+      "position": "Direct Accountability Architect",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T09:24:57.293Z",
+    "originator": {
+      "name": "Sadie Stamm",
+      "position": "Customer Security Supervisor",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T23:53:48.579Z",
+    "originator": {
+      "name": "Grady Schowalter",
+      "position": "International Research Officer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T02:54:07.802Z",
+    "originator": {
+      "name": "Ollie Rogahn",
+      "position": "Lead Security Producer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T18:28:14.448Z",
+    "originator": {
+      "name": "Mr. Luis Lind",
+      "position": "Lead Creative Orchestrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T13:27:12.937Z",
+    "originator": {
+      "name": "Dr. Seth Carter",
+      "position": "Legacy Usability Officer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T09:31:02.757Z",
+    "originator": {
+      "name": "Darrel Hane II",
+      "position": "Principal Response Orchestrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T00:42:30.075Z",
+    "originator": {
+      "name": "Darla Hessel",
+      "position": "Legacy Tactics Architect",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T21:03:47.101Z",
+    "originator": {
+      "name": "Oliver Smith",
+      "position": "Principal Metrics Executive",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T20:11:03.743Z",
+    "originator": {
+      "name": "Duane Kautzer IV",
+      "position": "Regional Optimization Facilitator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T08:38:31.001Z",
+    "originator": {
+      "name": "Charlie Renner",
+      "position": "Regional Creative Executive",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T02:03:51.386Z",
+    "originator": {
+      "name": "Mr. Shane Will",
+      "position": "Internal Brand Supervisor",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T05:19:14.256Z",
+    "originator": {
+      "name": "Douglas Turner",
+      "position": "Lead Paradigm Technician",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:41:39.633Z",
+    "originator": {
+      "name": "Ron Block PhD",
+      "position": "Customer Usability Associate",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T22:43:33.180Z",
+    "originator": {
+      "name": "Rodolfo Jones",
+      "position": "Forward Division Designer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:01:51.883Z",
+    "originator": {
+      "name": "Bethany Greenholt",
+      "position": "National Markets Developer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T19:03:08.921Z",
+    "originator": {
+      "name": "Camille Walsh",
+      "position": "Legacy Creative Analyst",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T21:25:59.490Z",
+    "originator": {
+      "name": "Oscar O'Reilly",
+      "position": "Senior Usability Associate",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T13:22:21.899Z",
+    "originator": {
+      "name": "Freda Dare Sr.",
+      "position": "Dynamic Creative Planner",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T19:18:31.312Z",
+    "originator": {
+      "name": "Jonathan Hills",
+      "position": "National Web Representative",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T04:39:00.750Z",
+    "originator": {
+      "name": "Sally Donnelly",
+      "position": "Internal Identity Administrator",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T17:57:40.084Z",
+    "originator": {
+      "name": "Gilberto Goyette Jr.",
+      "position": "Senior Tactics Analyst",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T10:13:27.099Z",
+    "originator": {
+      "name": "Wanda Bahringer",
+      "position": "Chief Accountability Officer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T16:47:10.663Z",
+    "originator": {
+      "name": "Marcella Nikolaus",
+      "position": "Human Program Executive",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T08:51:52.050Z",
+    "originator": {
+      "name": "Lila Torp",
+      "position": "Investor Functionality Officer",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:10:37.779Z",
+    "originator": {
+      "name": "Geoffrey Ward",
+      "position": "Lead Tactics Planner",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T07:14:15.141Z",
+    "originator": {
+      "name": "Julian Morissette",
+      "position": "International Research Agent",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T02:44:21.018Z",
+    "originator": {
+      "name": "Darla Morissette",
+      "position": "Senior Communications Consultant",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Marketing Campaign",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T14:52:42.854Z",
+    "originator": {
+      "name": "Leonard Morar-Huels",
+      "position": "District Division Agent",
+      "department": "Marketing"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T17:41:35.081Z",
+    "originator": {
+      "name": "Chad Gulgowski",
+      "position": "International Division Assistant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T12:57:42.652Z",
+    "originator": {
+      "name": "Albert Streich",
+      "position": "District Assurance Director",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T09:33:18.947Z",
+    "originator": {
+      "name": "Veronica Skiles",
+      "position": "Legacy Research Executive",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T19:48:58.325Z",
+    "originator": {
+      "name": "Patricia Swaniawski",
+      "position": "Global Metrics Director",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T21:58:06.962Z",
+    "originator": {
+      "name": "Camille Graham",
+      "position": "Direct Infrastructure Assistant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T14:13:55.840Z",
+    "originator": {
+      "name": "Mr. Clifton Ledner",
+      "position": "Investor Usability Officer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T14:33:19.285Z",
+    "originator": {
+      "name": "Sabrina Farrell",
+      "position": "Principal Quality Officer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T02:57:35.077Z",
+    "originator": {
+      "name": "Dr. Alonzo Fisher",
+      "position": "Principal Identity Administrator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T02:03:56.508Z",
+    "originator": {
+      "name": "Tina Beatty",
+      "position": "Internal Solutions Officer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T17:41:32.809Z",
+    "originator": {
+      "name": "Keith Bergstrom",
+      "position": "International Markets Developer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T19:47:25.207Z",
+    "originator": {
+      "name": "Anna Lynch",
+      "position": "Investor Mobility Director",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T06:43:36.820Z",
+    "originator": {
+      "name": "Christine Cummerata IV",
+      "position": "Chief Configuration Assistant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T23:03:12.717Z",
+    "originator": {
+      "name": "Christopher Gottlieb I",
+      "position": "International Identity Strategist",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T05:34:47.827Z",
+    "originator": {
+      "name": "Ms. Gloria Thompson",
+      "position": "Central Research Analyst",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T05:14:49.408Z",
+    "originator": {
+      "name": "Victoria Kuphal-Ritchie",
+      "position": "Regional Communications Agent",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T10:38:10.422Z",
+    "originator": {
+      "name": "Curtis Kling",
+      "position": "Direct Configuration Consultant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T11:22:20.042Z",
+    "originator": {
+      "name": "Henrietta Schiller",
+      "position": "Forward Creative Officer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T12:13:22.954Z",
+    "originator": {
+      "name": "Susie Volkman",
+      "position": "Future Communications Architect",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:36:36.447Z",
+    "originator": {
+      "name": "Ted Swaniawski",
+      "position": "Lead Assurance Assistant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T18:27:08.962Z",
+    "originator": {
+      "name": "Roderick Jacobi",
+      "position": "Principal Brand Producer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T06:10:00.808Z",
+    "originator": {
+      "name": "Ira Gleichner",
+      "position": "Human Directives Administrator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T21:22:15.088Z",
+    "originator": {
+      "name": "Elvira Daniel",
+      "position": "Corporate Functionality Coordinator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T03:00:32.027Z",
+    "originator": {
+      "name": "Beulah Runolfsson",
+      "position": "District Paradigm Architect",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T23:16:09.718Z",
+    "originator": {
+      "name": "Santos Marquardt",
+      "position": "Senior Branding Manager",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T08:53:32.478Z",
+    "originator": {
+      "name": "Lorenzo Langosh",
+      "position": "Customer Tactics Developer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:20:23.006Z",
+    "originator": {
+      "name": "Sylvia Gutmann",
+      "position": "Global Assurance Administrator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T01:41:25.378Z",
+    "originator": {
+      "name": "Kelley Morar",
+      "position": "Central Functionality Director",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T04:33:43.137Z",
+    "originator": {
+      "name": "Laura Bode",
+      "position": "Future Marketing Planner",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T08:26:07.621Z",
+    "originator": {
+      "name": "Jasmine Nitzsche",
+      "position": "International Division Associate",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T02:18:42.649Z",
+    "originator": {
+      "name": "Mrs. Jessie King",
+      "position": "Investor Metrics Executive",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T13:04:02.667Z",
+    "originator": {
+      "name": "Natalie Luettgen",
+      "position": "Legacy Communications Engineer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T10:13:49.879Z",
+    "originator": {
+      "name": "Alma Johnson",
+      "position": "Central Implementation Engineer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:37:43.323Z",
+    "originator": {
+      "name": "Brett Jaskolski Jr.",
+      "position": "Product Metrics Assistant",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T08:36:19.093Z",
+    "originator": {
+      "name": "Lillian Schaden",
+      "position": "Corporate Program Technician",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T02:08:53.096Z",
+    "originator": {
+      "name": "Bernadette Haag",
+      "position": "Principal Configuration Strategist",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T07:35:15.323Z",
+    "originator": {
+      "name": "Dr. Brad Fahey",
+      "position": "Senior Applications Director",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T05:21:32.906Z",
+    "originator": {
+      "name": "Desiree Mills",
+      "position": "Corporate Accounts Developer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T07:04:57.487Z",
+    "originator": {
+      "name": "Bobby Schowalter",
+      "position": "Direct Security Associate",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T20:45:30.077Z",
+    "originator": {
+      "name": "Dr. Rodolfo Marks",
+      "position": "Principal Usability Administrator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T05:48:55.018Z",
+    "originator": {
+      "name": "Candice Ledner",
+      "position": "Forward Operations Associate",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T10:43:44.254Z",
+    "originator": {
+      "name": "Clifford Stokes",
+      "position": "Regional Tactics Producer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T09:27:54.523Z",
+    "originator": {
+      "name": "Beulah Brakus Jr.",
+      "position": "Central Marketing Officer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T15:41:20.092Z",
+    "originator": {
+      "name": "Angel West",
+      "position": "Direct Tactics Planner",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T02:29:00.016Z",
+    "originator": {
+      "name": "Jack Kreiger",
+      "position": "District Assurance Specialist",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T01:14:31.737Z",
+    "originator": {
+      "name": "Doyle Hilpert",
+      "position": "Forward Markets Producer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T18:57:11.372Z",
+    "originator": {
+      "name": "Laverne Orn",
+      "position": "Chief Mobility Analyst",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T13:15:36.175Z",
+    "originator": {
+      "name": "Edmund Lehner",
+      "position": "Dynamic Metrics Administrator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T19:54:54.041Z",
+    "originator": {
+      "name": "Orlando Deckow",
+      "position": "Investor Division Specialist",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T03:03:54.737Z",
+    "originator": {
+      "name": "Sheila Little DDS",
+      "position": "National Usability Coordinator",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Transactions",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T21:20:29.102Z",
+    "originator": {
+      "name": "Willie Veum",
+      "position": "Global Creative Developer",
+      "department": "Operations"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T12:04:04.469Z",
+    "originator": {
+      "name": "Raquel Kihn",
+      "position": "Principal Brand Technician",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T11:06:35.198Z",
+    "originator": {
+      "name": "Emily Blanda",
+      "position": "Future Assurance Facilitator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T00:41:27.696Z",
+    "originator": {
+      "name": "Kent Douglas",
+      "position": "Direct Optimization Facilitator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T05:28:35.326Z",
+    "originator": {
+      "name": "Candace Gulgowski-Adams",
+      "position": "Forward Applications Facilitator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T08:04:15.941Z",
+    "originator": {
+      "name": "Darin Rogahn",
+      "position": "Customer Web Representative",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T08:11:09.399Z",
+    "originator": {
+      "name": "Janis Koelpin Jr.",
+      "position": "National Interactions Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T01:17:55.175Z",
+    "originator": {
+      "name": "Luis Kuhn",
+      "position": "Central Program Planner",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:43:03.571Z",
+    "originator": {
+      "name": "Silvia Prohaska III",
+      "position": "Lead Group Orchestrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T15:50:48.228Z",
+    "originator": {
+      "name": "Dorothy Dickinson",
+      "position": "Principal Data Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T00:57:40.630Z",
+    "originator": {
+      "name": "Elena Nitzsche",
+      "position": "Forward Group Designer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T10:35:39.317Z",
+    "originator": {
+      "name": "Caleb Bergnaum",
+      "position": "Chief Accounts Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T16:50:11.837Z",
+    "originator": {
+      "name": "Mandy Nicolas",
+      "position": "Principal Implementation Designer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T22:37:04.482Z",
+    "originator": {
+      "name": "Esther Macejkovic",
+      "position": "Principal Security Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T14:36:12.475Z",
+    "originator": {
+      "name": "Irving Nicolas",
+      "position": "Human Research Assistant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:32:31.179Z",
+    "originator": {
+      "name": "Trevor Labadie",
+      "position": "Forward Markets Technician",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T21:28:46.030Z",
+    "originator": {
+      "name": "Frederick Jerde",
+      "position": "Global Metrics Officer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T14:02:24.099Z",
+    "originator": {
+      "name": "Miss Kristie Connelly",
+      "position": "Senior Paradigm Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T03:15:29.640Z",
+    "originator": {
+      "name": "Evelyn Walter PhD",
+      "position": "Dynamic Factors Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T16:18:21.151Z",
+    "originator": {
+      "name": "Dr. Francis Aufderhar",
+      "position": "National Usability Agent",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T01:37:58.832Z",
+    "originator": {
+      "name": "Jacob Ullrich",
+      "position": "District Assurance Architect",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T15:49:17.778Z",
+    "originator": {
+      "name": "Nichole Brekke III",
+      "position": "Direct Directives Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T17:18:10.835Z",
+    "originator": {
+      "name": "Julius Sanford",
+      "position": "Central Program Facilitator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T09:27:14.252Z",
+    "originator": {
+      "name": "Traci Cormier",
+      "position": "Product Implementation Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T03:34:51.940Z",
+    "originator": {
+      "name": "Carolyn Emard",
+      "position": "District Integration Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T02:44:43.391Z",
+    "originator": {
+      "name": "Raymond Sanford",
+      "position": "Forward Functionality Liaison",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T07:26:32.363Z",
+    "originator": {
+      "name": "Homer Borer",
+      "position": "Global Optimization Developer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T10:35:06.047Z",
+    "originator": {
+      "name": "Estelle Lang",
+      "position": "Forward Accountability Producer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:05:21.118Z",
+    "originator": {
+      "name": "Charlene Kautzer",
+      "position": "Direct Interactions Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T07:38:43.645Z",
+    "originator": {
+      "name": "Velma Grady Sr.",
+      "position": "National Integration Producer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T20:10:58.097Z",
+    "originator": {
+      "name": "Patsy White-Fahey",
+      "position": "Corporate Division Agent",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T07:29:16.667Z",
+    "originator": {
+      "name": "Ray Conn",
+      "position": "International Markets Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T06:02:56.702Z",
+    "originator": {
+      "name": "Sidney Keeling",
+      "position": "Human Response Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T11:42:32.450Z",
+    "originator": {
+      "name": "Leah Hansen III",
+      "position": "Regional Functionality Designer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T15:53:44.693Z",
+    "originator": {
+      "name": "Wm Schmidt",
+      "position": "Forward Mobility Officer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T22:13:25.675Z",
+    "originator": {
+      "name": "Vickie Heathcote",
+      "position": "Central Tactics Administrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T12:39:49.681Z",
+    "originator": {
+      "name": "Edith Wiegand",
+      "position": "Senior Configuration Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T22:46:13.270Z",
+    "originator": {
+      "name": "Janet Orn",
+      "position": "Chief Assurance Producer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T14:36:49.918Z",
+    "originator": {
+      "name": "Melanie Orn",
+      "position": "Lead Web Facilitator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T10:20:15.882Z",
+    "originator": {
+      "name": "Noah Torp",
+      "position": "Forward Quality Associate",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T16:08:53.365Z",
+    "originator": {
+      "name": "Susan Emard",
+      "position": "Direct Configuration Director",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T07:04:52.619Z",
+    "originator": {
+      "name": "Dr. Dustin Moen",
+      "position": "Central Accountability Consultant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T03:12:12.657Z",
+    "originator": {
+      "name": "Edward Greenholt",
+      "position": "Human Paradigm Architect",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T01:49:36.701Z",
+    "originator": {
+      "name": "Alicia O'Connell-Paucek",
+      "position": "Investor Paradigm Technician",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:18:33.726Z",
+    "originator": {
+      "name": "Wendy Considine",
+      "position": "Corporate Quality Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T11:12:53.466Z",
+    "originator": {
+      "name": "Angie Robel",
+      "position": "District Division Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T15:03:28.594Z",
+    "originator": {
+      "name": "Noah Gottlieb",
+      "position": "Internal Group Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T18:23:43.715Z",
+    "originator": {
+      "name": "Travis Veum Jr.",
+      "position": "Regional Optimization Orchestrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T16:16:55.359Z",
+    "originator": {
+      "name": "Ed Bauch",
+      "position": "Human Quality Assistant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T10:58:57.171Z",
+    "originator": {
+      "name": "Carrie Tremblay",
+      "position": "Investor Infrastructure Officer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Inventory In",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T12:41:02.539Z",
+    "originator": {
+      "name": "Vickie Bruen",
+      "position": "Direct Markets Consultant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T22:59:43.335Z",
+    "originator": {
+      "name": "Ms. Meghan Wintheiser DVM",
+      "position": "Future Web Architect",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T18:38:05.208Z",
+    "originator": {
+      "name": "Dawn Dicki",
+      "position": "District Mobility Officer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T11:52:34.336Z",
+    "originator": {
+      "name": "Garry Kohler",
+      "position": "Product Assurance Administrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T00:03:15.766Z",
+    "originator": {
+      "name": "Jerry Smitham",
+      "position": "Senior Usability Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T13:51:17.036Z",
+    "originator": {
+      "name": "Vanessa Kris",
+      "position": "Dynamic Functionality Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T12:22:03.108Z",
+    "originator": {
+      "name": "Ray Kunde IV",
+      "position": "Customer Group Developer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T07:44:32.550Z",
+    "originator": {
+      "name": "Karen Huels",
+      "position": "Customer Identity Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T07:45:12.324Z",
+    "originator": {
+      "name": "Eugene Zulauf",
+      "position": "National Division Designer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T10:28:52.788Z",
+    "originator": {
+      "name": "Debra Torphy",
+      "position": "Human Response Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T18:03:16.396Z",
+    "originator": {
+      "name": "Roxanne Denesik",
+      "position": "Human Markets Orchestrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T17:41:42.100Z",
+    "originator": {
+      "name": "Ivan Greenfelder",
+      "position": "Product Marketing Director",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T13:20:42.657Z",
+    "originator": {
+      "name": "Dorothy Schneider",
+      "position": "Lead Response Supervisor",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T08:35:46.243Z",
+    "originator": {
+      "name": "Scott McLaughlin",
+      "position": "District Security Associate",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T17:12:07.300Z",
+    "originator": {
+      "name": "Gene Steuber MD",
+      "position": "Direct Branding Associate",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-08T08:02:11.814Z",
+    "originator": {
+      "name": "Dr. Traci Romaguera",
+      "position": "Corporate Assurance Agent",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T07:53:55.756Z",
+    "originator": {
+      "name": "Lynne Sauer",
+      "position": "Forward Implementation Supervisor",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T13:20:12.276Z",
+    "originator": {
+      "name": "Wilfred Sporer",
+      "position": "Principal Metrics Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T12:22:47.728Z",
+    "originator": {
+      "name": "Bernice Franecki-Feil",
+      "position": "Forward Research Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T11:31:47.798Z",
+    "originator": {
+      "name": "Alyssa Schamberger",
+      "position": "Future Division Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T01:47:23.324Z",
+    "originator": {
+      "name": "Drew Schneider",
+      "position": "Human Intranet Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T17:27:39.052Z",
+    "originator": {
+      "name": "Carrie Rogahn",
+      "position": "Legacy Security Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T09:24:06.612Z",
+    "originator": {
+      "name": "Jennie Koss",
+      "position": "Global Research Supervisor",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T18:11:18.003Z",
+    "originator": {
+      "name": "Silvia Berge",
+      "position": "Forward Identity Supervisor",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T12:10:56.208Z",
+    "originator": {
+      "name": "Dan Raynor Jr.",
+      "position": "International Accounts Consultant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-08T10:42:52.828Z",
+    "originator": {
+      "name": "Dr. Marty Glover",
+      "position": "Global Intranet Producer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T23:06:42.127Z",
+    "originator": {
+      "name": "Jessica Graham",
+      "position": "Corporate Accounts Developer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-07T17:19:53.972Z",
+    "originator": {
+      "name": "Shelley Kemmer",
+      "position": "Human Markets Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T08:29:28.307Z",
+    "originator": {
+      "name": "Percy Abbott",
+      "position": "Forward Usability Developer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T11:12:31.044Z",
+    "originator": {
+      "name": "Mr. Dana Rempel",
+      "position": "Product Functionality Architect",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-08T00:30:40.337Z",
+    "originator": {
+      "name": "Teri Macejkovic",
+      "position": "Legacy Solutions Representative",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T11:36:53.288Z",
+    "originator": {
+      "name": "Leigh Wunsch",
+      "position": "Direct Identity Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T17:39:03.679Z",
+    "originator": {
+      "name": "George Tillman",
+      "position": "Lead Applications Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-07T21:07:03.253Z",
+    "originator": {
+      "name": "Emmett Pfannerstill II",
+      "position": "Lead Usability Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T16:27:48.586Z",
+    "originator": {
+      "name": "Darlene Waelchi",
+      "position": "Principal Marketing Technician",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-08T14:42:53.928Z",
+    "originator": {
+      "name": "John King",
+      "position": "International Interactions Officer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T23:22:18.592Z",
+    "originator": {
+      "name": "Timothy Senger-Toy",
+      "position": "Internal Data Supervisor",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T19:16:14.305Z",
+    "originator": {
+      "name": "Dr. Miranda Hyatt Jr.",
+      "position": "International Configuration Administrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T23:07:01.260Z",
+    "originator": {
+      "name": "Ervin Kiehn",
+      "position": "Central Accountability Designer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "POST",
+    "timestamp": "2024-07-08T02:54:21.643Z",
+    "originator": {
+      "name": "Mr. Wendell Ernser",
+      "position": "Direct Group Analyst",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T17:59:07.703Z",
+    "originator": {
+      "name": "Guadalupe Morissette",
+      "position": "Human Solutions Manager",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T19:56:22.623Z",
+    "originator": {
+      "name": "Vera Hegmann",
+      "position": "Chief Quality Administrator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T03:48:58.531Z",
+    "originator": {
+      "name": "Antonio Grady",
+      "position": "International Configuration Developer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T00:23:04.795Z",
+    "originator": {
+      "name": "Barry Schuster",
+      "position": "Direct Marketing Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "PROPOSE",
+    "timestamp": "2024-07-08T12:38:42.575Z",
+    "originator": {
+      "name": "Ashley Blanda",
+      "position": "Direct Program Coordinator",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-08T00:09:39.717Z",
+    "originator": {
+      "name": "Jeanette Moore",
+      "position": "Investor Factors Assistant",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T07:29:32.591Z",
+    "originator": {
+      "name": "Erika Mills",
+      "position": "Corporate Configuration Associate",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "DONE",
+    "timestamp": "2024-07-07T18:38:17.014Z",
+    "originator": {
+      "name": "Jean Glover",
+      "position": "Customer Integration Engineer",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-07T23:52:42.872Z",
+    "originator": {
+      "name": "Dr. Audrey Becker",
+      "position": "Investor Creative Strategist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "APPROVE",
+    "timestamp": "2024-07-08T01:10:12.043Z",
+    "originator": {
+      "name": "Vera Larkin",
+      "position": "Investor Operations Specialist",
+      "department": "Merchandising"
+    }
+  },
+  {
+    "caseId": "Buying",
+    "eventName": "CREATE",
+    "timestamp": "2024-07-07T16:50:55.944Z",
+    "originator": {
+      "name": "Alexis Rogahn",
+      "position": "Chief Paradigm Specialist",
+      "department": "Merchandising"
+    }
+  }
+]

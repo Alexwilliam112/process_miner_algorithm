@@ -61,7 +61,7 @@ def extract_common_segment_dynamic(event_name, cluster_id):
     return common_word
 
 # Apply the function to create a new column for case IDs
-df['case_id'] = df.apply(lambda row: extract_common_segment_dynamic(row['eventName'], row['cluster']), axis=1)
+df['caseId'] = df.apply(lambda row: extract_common_segment_dynamic(row['eventName'], row['cluster']), axis=1)
 
 # Sort by timestamp to maintain chronological order
 df = df.sort_values(by='timestamp')

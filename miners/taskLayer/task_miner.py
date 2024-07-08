@@ -29,7 +29,7 @@ def calculate_average_times(event_log):
     return average_times
 
 def convert_to_petri_net(df):
-    log = pm4py.format_dataframe(df, case_id='case_id', activity_key='eventName', timestamp_key='timestamp')
+    log = pm4py.format_dataframe(df, case_id='caseId', activity_key='eventName', timestamp_key='timestamp')
     event_log = log_converter.apply(log)
     process_tree = inductive_miner.apply(event_log)
     net, initial_marking, final_marking = pm4py.objects.conversion.process_tree.converter.apply(process_tree)
@@ -38,7 +38,6 @@ def convert_to_petri_net(df):
 def rename_places(net, df):
     event_names = df['eventName'].unique().tolist()
     for place in net.places:
-        # Assume places are named sequentially and we map them to event names.
         if event_names:
             place.name = event_names.pop(0)
     return net
@@ -55,26 +54,21 @@ def prepare_result(net):
     }
 
 def main():
-    # Sample event log data (as a string for testing purposes)
     data_str = sys.argv[1]
-    # Convert the string to a list of dictionaries
     data = json.loads(data_str.replace("null", "null").replace("'", '"'))
 
-    # Create a DataFrame from the data
     df = pd.DataFrame(data)
     df['timestamp'] = pd.to_datetime(df['timestamp'])
 
     results = {}
 
-    # Process each case_id separately
-    for case_id, case_df in df.groupby('case_id'):
+    for case_id, case_df in df.groupby('caseId'):
         net, event_log = convert_to_petri_net(case_df)
-        net = rename_places(net, case_df)
         average_times = calculate_average_times(event_log)
+        net = rename_places(net, case_df)
         net = annotate_places_with_times(net, average_times)
         results[case_id] = prepare_result(net)
 
-    # Print the result as a JSON string
     print(json.dumps(results, indent=2))
 
 if __name__ == "__main__":
